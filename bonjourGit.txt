@@ -1,2 +1,6 @@
 hellow world
+<<<<<<< HEAD
 salaaaaam
+=======
+bonjourr cest hamzaaaa
+>>>>>>> feature
