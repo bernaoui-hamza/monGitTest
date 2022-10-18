@@ -1,6 +1,1 @@
-hellow world
-<<<<<<< HEAD
-salaaaaam
-=======
-bonjourr cest hamzaaaa
->>>>>>> feature
+waaaa lwaliiiiid
